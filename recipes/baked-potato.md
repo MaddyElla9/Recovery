@@ -1,4 +1,10 @@
-# Baked Potato
+---
+title: "Baked Potato"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Ingredients
 1 medium/large Russet potato, scrubbed clean of any dirt
