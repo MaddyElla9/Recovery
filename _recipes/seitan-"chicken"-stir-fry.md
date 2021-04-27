@@ -1,7 +1,7 @@
 ---
 title: "Seitan 'Chicken' Stir Fry"
 image:
-  path: 
+  path: /images/yuya-yoshioka-unteFHaWL2Q-unsplash.jpg 
   thumbnail: 
   caption: 
 ---
