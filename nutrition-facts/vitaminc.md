@@ -1,4 +1,10 @@
-# Vitamin C
+---
+title: "Vitamin C"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 ## Why is vitamin c important?
 Vitamin C is important because it helps to create a protein called collagen which is one of the most important types of proteins because it strengthens 
