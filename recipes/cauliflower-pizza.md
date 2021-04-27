@@ -1,5 +1,10 @@
-# Cauliflower Pizza
-
+---
+title: "Cauliflower Pizza"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 # Ingredients
 1 cauliflower pizza base (store-bought)
 Mozzarella
