@@ -1,13 +1,7 @@
-# Recovery Routines
-
-## Ice vs. Heat
-Ice
-Heat
-
-## Loosening Muscles
-Foam Rolling
-Stretching
-
-## Injury Support
-Braces
-KT Tape
+---
+title: Routines
+layout: collection
+permalink: /routines/
+collection: routines
+entries_layout: grid
+---
