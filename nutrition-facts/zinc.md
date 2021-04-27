@@ -1,4 +1,10 @@
-# Zinc
+---
+title: "Zinc"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 ## Why is zinc important?
 Zinc is an important resource because it promotes the body’s healing routine, but also because it strengthens the immune system. 
