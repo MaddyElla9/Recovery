@@ -106,7 +106,7 @@ defaults:
       layout: post
       comments: true
       share: true
-   - scope:
+  - scope:
       path: "_stretching"
       type: stretching
     values:
