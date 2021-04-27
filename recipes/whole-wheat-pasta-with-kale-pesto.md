@@ -1,4 +1,10 @@
-# Whole Wheat Pasta with Kale Pesto
+---
+title: "Whole Wheat Pasta with Kale Pesto"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Ingredients
 ## Pesto:
