@@ -1,4 +1,10 @@
-# Vitamin D
+---
+title: "Vitamin D"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 ## Why is vitamin d important?
 Vitamin D reduces inflammation, pain, helps increase the production of proteins and energy, and makes you stronger. Vitamin D is produced when you are out 
