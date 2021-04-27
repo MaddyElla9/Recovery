@@ -1,4 +1,10 @@
-# Seitan "Chicken" Stir Fry
+---
+title: "Seitan 'Chicken' Stir Fry"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Ingredients
 400g shredded seitan
