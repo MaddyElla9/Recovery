@@ -1,4 +1,10 @@
-# Calcium
+---
+title: "Protein"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 ## Why is calcium important?
 Calcium is in your bones and teeth and is needed in order to maintain a strong skeleton. Calcium makes your bones stronger and repairs them helping to 
