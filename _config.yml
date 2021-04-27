@@ -3,7 +3,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Recovery"
-description: "Let's learn about our bodies and how to properly care for them after an intense training session!"
+description: "Be kind to your body, you only have one"
 # baseurl: "/" # the subpath of your site, e.g. "/blog"
 # url: 
 # logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
