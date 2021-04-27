@@ -1,4 +1,10 @@
-# Vegan Black Bean Brownies
+---
+title: "Vegan Black Bean Brownies"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Ingredients
 250g black beans
