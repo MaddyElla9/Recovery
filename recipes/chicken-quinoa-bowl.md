@@ -1,4 +1,10 @@
-# Chicken Quinoa Bowl
+---
+title: "Chicken Quinoa Bowl"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Ingredients
 ## Chicken
