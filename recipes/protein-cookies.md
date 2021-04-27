@@ -1,6 +1,11 @@
 ---
 title: "Chocolate Chip Protein Cookies"
+image:
+  path: 
+  thumbnail: 
+  caption: 
 ---
+
 
 ## Ingrdients
 1/2 cup peanut butter or nut butter of choice
