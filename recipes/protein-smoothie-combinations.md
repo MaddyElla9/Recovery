@@ -1,4 +1,10 @@
-## Protein Smoothies
+---
+title: "Protein Smoothies"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Proportions
 1 part liquid
