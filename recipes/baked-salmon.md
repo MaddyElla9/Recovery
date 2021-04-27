@@ -1,4 +1,10 @@
-# Baked Salmon
+---
+title: "Baked Salmon"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Ingredients
 1 cup brown rice
