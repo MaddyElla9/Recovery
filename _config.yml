@@ -89,6 +89,13 @@ defaults:
       layout: post
       comments: true
       share: true
+  - scope:
+      path: "_nutrition-facts"
+      type: nutrition_facts
+    values:
+      layout: post
+      comments: true
+      share: true
 
 # Site Author
 author:
