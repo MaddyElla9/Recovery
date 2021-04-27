@@ -1,4 +1,9 @@
-# Recipes
+---
+title: recipes
+permalink: /recipes/
+collection: recipes
+entries_layout: grid
+---
 
 ## Desserts
 Protein cookies
@@ -14,7 +19,6 @@ Banana and peanut butter
 Banana and chocolate
 Banana and blueberries
 Mixture of fruits plus spinach
-Avocado Toast with eggs
 Smoothie Bowl
 
 ## Lunch/Dinner
