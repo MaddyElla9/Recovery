@@ -1,11 +1,7 @@
-# Nutrition Facts
-
-## List of nutrients and what they are
-Protein 
-Vitamin C
-Zinc
-Vitamin D
-Calcium
-Fiber 
-Carbohydrates
-Fats
+---
+title: Nutrition Facts
+layout: collection
+permalink: /nutrition_facts/
+collection: nutrition_facts
+entries_layout: grid
+---
