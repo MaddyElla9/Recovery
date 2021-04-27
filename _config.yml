@@ -65,7 +65,10 @@ collections:
   nutrition_facts:
     output: true
     permalink: /:collection/:path/
-  post_workout:
+  routines:
+    output: true
+    permalink: /:collection/:path/
+  stretching:
     output: true
     permalink: /:collection/:path/
 
@@ -92,6 +95,20 @@ defaults:
   - scope:
       path: "_nutrition-facts"
       type: nutrition_facts
+    values:
+      layout: post
+      comments: true
+      share: true
+  - scope:
+      path: "_routines"
+      type: routines
+    values:
+      layout: post
+      comments: true
+      share: true
+   - scope:
+      path: "_stretching"
+      type: stretching
     values:
       layout: post
       comments: true
