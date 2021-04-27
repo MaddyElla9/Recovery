@@ -1,4 +1,10 @@
-# Fats
+---
+title: "Fats"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 ## What are fats important?
 Fats, well more specifically healthy fats, are important to include in your diet because they help to provide you with energy and allow you 
