@@ -1,4 +1,10 @@
-# Protein
+---
+title: "Protein"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 ## Why is protein important?
 Protein is good because when you are working out you are essentially tearing down your muscles. Proteins in the body work to build back the muscle 
