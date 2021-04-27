@@ -1,8 +1,8 @@
 ---
 title: recipes
 permalink: /recipes/
-#collection: recipes
-#entries_layout: grid
+collection: recipes
+entries_layout: grid
 ---
 
 ## Desserts
