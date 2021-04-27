@@ -1,4 +1,10 @@
-# Fiber
+---
+title: "Fiber"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 ## Why is fiber important?
 Fiber is important because it allows easier digestion but also keeps you feeling full and maintains healthier eating habits.
