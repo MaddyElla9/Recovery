@@ -1,4 +1,10 @@
-# Fruit Smoothie Bowl
+---
+title: "Fruit Smoothie Bowl"
+image:
+  path: 
+  thumbnail: 
+  caption: 
+---
 
 # Ingredients
 1 large banana, chopped & frozen
