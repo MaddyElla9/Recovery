@@ -2,7 +2,7 @@
 title: "Cauliflower Pizza"
 image:
   path: /images/banner-pizza.jpg
-  thumbnail: /images/thumnail-pizza.jpg
+  thumbnail: /images/thumbnail-pizza.jpg
   caption: 
 ---
 # Ingredients
