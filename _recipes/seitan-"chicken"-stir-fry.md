@@ -2,7 +2,7 @@
 title: "Seitan 'Chicken' Stir Fry"
 image:
   path: /images/banner-stirfry.jpg
-  thumbnail: /images/thumgnail-stirfry.jpg
+  thumbnail: /images/thumbnail-stirfry.jpg
   caption: 
 ---
 
