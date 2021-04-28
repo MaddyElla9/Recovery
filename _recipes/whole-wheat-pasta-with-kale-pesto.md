@@ -39,4 +39,4 @@ Return the pasta to the empty cooking pot and toss with the lemon juice. Add 1 c
 If the pesto seems dry, add a little of the pasta cooking water, 1 tablespoon at a time, until the sauce coats the pasta. 
 Stir in the mozzarella pieces and serve.
 
-[Recipe by Sally Vargas](https://www.chloeting.com/recipes/fudgey-vegan-black-bean-brownies.html)
+[Recipe by Sally Vargas](https://www.simplyrecipes.com/recipes/whole_wheat_pasta_with_kale_pesto/)
