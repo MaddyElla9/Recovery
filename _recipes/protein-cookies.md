@@ -1,8 +1,8 @@
 ---
 title: "Chocolate Chip Protein Cookies"
 image:
-  path: 
-  thumbnail: 
+  path: /images/banner-cookies.jpg
+  thumbnail: /images/thumbnail-cookies.jpg
   caption: 
 ---
 
@@ -37,23 +37,3 @@ With a small cookie scoop or spoon, portion the cookie dough by tablespoonfuls a
 as they will not spread but will puff up during baking. Bake for 5 to 6 minutes, until the edges are barely golden brown and 
 dry to the touch but the middles seem fairly doughy. Do not overbake! Place the cookie sheet on a wire rack and allow the cookies to cool 
 on the baking sheet for 3 minutes before transferring them directly to the wire rack to finish cooling.
-
-# Nutrition Facts
-## Serving:
-Per 1 Cookie
-## Carbs:
-8g
-## Fat:
-6g
-## Cholesterol:
-16mg
-## Sugar:
-5g
-## Calories:
-112kcal
-## Protein:
-7g
-## Saturated Fat:
-1g
-## Fiber:
-1g
