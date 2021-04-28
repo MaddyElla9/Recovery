@@ -1,7 +1,7 @@
 ---
 title: Stretching
 layout: collection
-permalink: /stretching/
+permalink: /stretching-routines/
 collection: stretching
 entries_layout: grid
 ---
