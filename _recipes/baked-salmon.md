@@ -27,3 +27,5 @@ Sprinkle the orange juice over the fish and rice.
 In a small bowl, combine the dill weed, rosemary, basil, mustard, lemon pepper and sprinkle over the fish and rice. Cover with aluminum foil.
 ## Step 4:
 Bake in a preheated oven for 30 to 40 minutes or until the salmon is tender and flaky. Then serve on some rice and enjoy!
+
+Recipe by: SDELATORE from AllRecipes
