@@ -28,4 +28,4 @@ In a small bowl, combine the dill weed, rosemary, basil, mustard, lemon pepper a
 ## Step 4:
 Bake in a preheated oven for 30 to 40 minutes or until the salmon is tender and flaky. Then serve on some rice and enjoy!
 
-Recipe by: SDELATORE from AllRecipes (https://www.allrecipes.com/recipe/21185/baked-salmon-i/)
+[Recipe by: SDELATORE from AllRecipes] (https://www.allrecipes.com/recipe/21185/baked-salmon-i/)
