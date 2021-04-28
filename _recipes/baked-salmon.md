@@ -1,8 +1,8 @@
 ---
 title: "Baked Salmon"
-image:
-  path: 
-  thumbnail: 
+image: 
+  path: /images/banner-salmon.jpg 
+  thumbnail: /images/thumbnail-salmon.jpg
   caption: 
 ---
 
