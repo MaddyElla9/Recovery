@@ -42,3 +42,5 @@ While the chicken is cooking, prepare the rest of the ingredients. Cut tomatoes 
 ## Step 5:
 Assemble your bowls by layering each one with salad greens, quinoa, tomatoes, shredded chicken, corn, black beans and avocado. Add a sprinkle of salt, pepper and smoked paprika. 
 Finally, top with chopped cilantro and a squeeze of lime.
+
+[Recipe by Chloe Ting](https://www.chloeting.com/recipes/southwestern-chicken-quinoa-bowl.html)
