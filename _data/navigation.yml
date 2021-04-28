@@ -1,5 +1,7 @@
 # Site navigation links
 
+- title: Home
+  url: /home/
 - title: Recipes
   url: /recipes/
 - title: Nutrition Facts
@@ -8,5 +10,3 @@
   url: /injury_prevention/
 - title: Stretching
   url: /stretching/
-- title: About
-  url: /about/
