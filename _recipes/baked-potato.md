@@ -29,5 +29,3 @@ Otherwise, continue cooking in 5-minute increments until the potato is soft.
 Using a small paring knife, slice halfway through the potato lengthwise.  Then give it a gentle squeeze to open.
 ## Step 7:
 Serve immediately, with your desired toppings.
-
-Recipe by: SDELATORE from AllRecipes
