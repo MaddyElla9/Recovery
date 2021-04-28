@@ -34,3 +34,5 @@ Deglaze the wok with Shaoxing wine, and add broccoli. Stir fry for 1 minute.
 Add the stir fry sauce that was prepared earlier and stir fry everything for 2-3 minutes or until the sauce thickens to your liking.
 ## Step 7:
 Serve immediately with steamed rice.
+
+[Recipe by Chloe Ting](https://www.chloeting.com/recipes/seitan-chicken-stir-fry.html)
