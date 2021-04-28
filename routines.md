@@ -1,7 +1,7 @@
 ---
-title: Routines
+title: Injury Prevention
 layout: collection
-permalink: /routines/
+permalink: /injury_prevention/
 collection: routines
 entries_layout: grid
 ---
