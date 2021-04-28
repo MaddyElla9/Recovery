@@ -1,8 +1,8 @@
 ---
 title: "Fruit Smoothie Bowl"
 image:
-  path: 
-  thumbnail: 
+  path: /images/banner-smoothiebowl.jpg
+  thumbnail: /images/thumbnail-smoothiebowl.jpg
   caption: 
 ---
 
