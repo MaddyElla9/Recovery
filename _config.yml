@@ -93,7 +93,7 @@ defaults:
       comments: true
       share: true
   - scope:
-      path: "_nutrition-facts"
+      path: "_nutrition_facts"
       type: nutrition_facts
     values:
       layout: post
