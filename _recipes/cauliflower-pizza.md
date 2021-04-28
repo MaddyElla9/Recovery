@@ -28,3 +28,5 @@ Top the entire pizza with the peppers, pumpkin, arugula/rocket and basil, use as
 Pop in the oven as instructed on the package of the pizza base.
 ## Step 6: 
 Garnish with fresh basil and enjoy!
+
+[Recipe by Chloe Ting](https://www.chloeting.com/recipes/cauliflower-pizza.html)
