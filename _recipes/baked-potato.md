@@ -1,8 +1,8 @@
 ---
 title: "Baked Potato"
 image:
-  path: 
-  thumbnail: 
+  path: /images/banner-potato.jpg
+  thumbnail: /images/thumbnail.jpg
   caption: 
 ---
 
