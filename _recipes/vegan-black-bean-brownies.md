@@ -35,3 +35,5 @@ Transfer batter to pan. Sprinkle the rest of the chocolate chips and pecans on t
 Bake for 20 minutes
 ## Step 7:
 Remove from oven and let cool completely before cutting. 
+
+[Recipe by Chloe Ting](https://www.chloeting.com/recipes/fudgey-vegan-black-bean-brownies.html)
