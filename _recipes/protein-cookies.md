@@ -37,3 +37,5 @@ With a small cookie scoop or spoon, portion the cookie dough by tablespoonfuls a
 as they will not spread but will puff up during baking. Bake for 5 to 6 minutes, until the edges are barely golden brown and 
 dry to the touch but the middles seem fairly doughy. Do not overbake! Place the cookie sheet on a wire rack and allow the cookies to cool 
 on the baking sheet for 3 minutes before transferring them directly to the wire rack to finish cooling.
+
+[Recipe by Erin Clarke](https://www.wellplated.com/peanut-butter-protein-cookies/)
