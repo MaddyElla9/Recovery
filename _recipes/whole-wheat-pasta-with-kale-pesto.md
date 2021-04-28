@@ -1,8 +1,8 @@
 ---
 title: "Whole Wheat Pasta with Kale Pesto"
 image:
-  path: 
-  thumbnail: 
+  path: /images/banner-pasta.jpg
+  thumbnail: /images/thumbnail-pasta.jpg
   caption: 
 ---
 
