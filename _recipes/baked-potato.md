@@ -30,4 +30,4 @@ Using a small paring knife, slice halfway through the potato lengthwise.  Then g
 ## Step 7:
 Serve immediately, with your desired toppings.
 
-Recipe by: Ali from Gimme Some Oven (https://www.gimmesomeoven.com/baked-potato/)
+[Recipe by Ali from Gimme Some Oven](https://www.gimmesomeoven.com/baked-potato/)
