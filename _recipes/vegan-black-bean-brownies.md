@@ -1,8 +1,8 @@
 ---
 title: "Vegan Black Bean Brownies"
 image:
-  path: 
-  thumbnail: 
+  path: /images/banner-brownies.jpg
+  thumbnail: /images/thumbnail-brownies.jpg
   caption: 
 ---
 
