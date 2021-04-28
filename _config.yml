@@ -70,7 +70,7 @@ collections:
     permalink: /:collection/:path/
   stretching:
     output: true
-    permalink: /routines/:collection/:path/
+    permalink: /:collection/:path/
 
 
 
