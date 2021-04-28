@@ -25,3 +25,5 @@ You may add a splash of coconut water/plant milk/water to assist with blending i
 The texture you're looking for is thick and creamy, like slightly melted ice cream.
 # Step 3:
 Pour your smoothie base into a bowl and dress with your toppings of choice. Enjoy!
+
+[Recipe by Chloe Ting](https://www.chloeting.com/recipes/pink-smoothie-bowl.html)
