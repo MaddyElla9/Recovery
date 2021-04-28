@@ -1,8 +1,8 @@
 ---
 title: "Protein Smoothies"
 image:
-  path: 
-  thumbnail: 
+  path: /images/banner-smoothie.png
+  thumbnail: /images/thumbnail.jpg
   caption: 
 ---
 
