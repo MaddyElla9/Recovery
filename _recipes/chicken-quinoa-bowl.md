@@ -1,8 +1,8 @@
 ---
 title: "Chicken Quinoa Bowl"
-image:
-  path: 
-  thumbnail: 
+image: 
+  path: /images/banner-bowl.jpg
+  thumbnail: /images/thumbnail-bowl.jpg
   caption: 
 ---
 
