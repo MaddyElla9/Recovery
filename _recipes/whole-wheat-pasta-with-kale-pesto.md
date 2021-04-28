@@ -38,3 +38,5 @@ Scoop out and set aside 1 cup of the pasta cooking water. Drain the pasta in a c
 Return the pasta to the empty cooking pot and toss with the lemon juice. Add 1 cup or more pesto, to taste, and toss again. 
 If the pesto seems dry, add a little of the pasta cooking water, 1 tablespoon at a time, until the sauce coats the pasta. 
 Stir in the mozzarella pieces and serve.
+
+[Recipe by Sally Vargas](https://www.chloeting.com/recipes/fudgey-vegan-black-bean-brownies.html)
