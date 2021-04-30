@@ -7,10 +7,10 @@ image:
 ---
 
 # Ingredients
-1 medium/large Russet potato, scrubbed clean of any dirt
-1–2 teaspoons melted butter (or olive oil)
-1 pinch of coarse Kosher salt
-1 pinch of freshly-cracked black pepper
+* 1 medium/large Russet potato, scrubbed clean of any dirt
+* 1–2 teaspoons melted butter (or olive oil)
+* 1 pinch of coarse Kosher salt
+* 1 pinch of freshly-cracked black pepper
 
 # Directions
 ## Step 1:
