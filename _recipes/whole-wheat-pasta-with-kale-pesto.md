@@ -8,18 +8,18 @@ image:
 
 # Ingredients
 ## Pesto:
-1 bunch lacinato kale (about 12 ounces), stems removed and leaves torn into large pieces
-1/2 cup unsalted cashews
-2 cloves garlic, peeled
-1/2 cup finely grated Parmesan or Romano
-1/3 cup olive oil
-1/4 teaspoon salt
-1/8 teaspoon ground black pepper
-Water, as needed, to thin the pesto
+* 1 bunch lacinato kale (about 12 ounces), stems removed and leaves torn into large pieces
+* 1/2 cup unsalted cashews
+* 2 cloves garlic, peeled
+* 1/2 cup finely grated Parmesan or Romano
+* 1/3 cup olive oil
+* 1/4 teaspoon salt
+* 1/8 teaspoon ground black pepper
+* Water, as needed, to thin the pesto
 ## Pasta:
-1 pound whole wheat linguine, spaghetti, or bucatini.
-2 to 3 tablespoons lemon juice, or to taste
-8 ounces fresh mozzarella cheese, cut into 1-inch pieces
+* 1 pound whole wheat linguine, spaghetti, or bucatini.
+* 2 to 3 tablespoons lemon juice, or to taste
+* 8 ounces fresh mozzarella cheese, cut into 1-inch pieces
 
 # Directions
 ## Step 1: 
