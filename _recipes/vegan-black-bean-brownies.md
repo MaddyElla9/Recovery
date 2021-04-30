@@ -7,18 +7,18 @@ image:
 ---
 
 # Ingredients
-250g black beans
-3 tbsp cocoa powder
-40g quick oats
-1/4 tsp salt
-30g maple syrup
-15 drops stevia
-2 tbsp oat / almond milk
-40g coconut oil
-2 tsp vanilla extract
-1/2 tsp baking powder
-1/2 cup sugar free chocolate chips
-1/2 cup chopped pecans
+* 250g black beans
+* 3 tbsp cocoa powder
+* 40g quick oats
+* 1/4 tsp salt
+* 30g maple syrup
+* 15 drops stevia
+* 2 tbsp oat / almond milk
+* 40g coconut oil
+* 2 tsp vanilla extract
+* 1/2 tsp baking powder
+* 1/2 cup sugar free chocolate chips
+* 1/2 cup chopped pecans
 
 # Directions
 ## Step 1:
