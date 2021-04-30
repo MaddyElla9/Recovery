@@ -7,14 +7,14 @@ image:
 ---
 
 # Ingredients
-1 large banana, chopped & frozen
-5 strawberries, frozen
-10 raspberries, frozen
-2 tbsp coconut yogurt
-1 white nectarine (optional topping)
-3 strawberries (optional topping)
-3 raspberries (optional topping)
-Handful of granola of choice (optional topping)
+* 1 large banana, chopped & frozen
+* 5 strawberries, frozen
+* 10 raspberries, frozen
+* 2 tbsp coconut yogurt
+* 1 white nectarine (optional topping)
+* 3 strawberries (optional topping)
+* 3 raspberries (optional topping)
+* Handful of granola of choice (optional topping)
 
 ## Directions
 # Step 1:
