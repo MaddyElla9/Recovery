@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: post
+layout: page
 ---
 
 ### Why is proper diet and nutrition important?
