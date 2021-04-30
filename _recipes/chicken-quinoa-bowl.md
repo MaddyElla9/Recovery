@@ -8,16 +8,16 @@ image:
 
 # Ingredients
 ## Chicken
-110g chicken breast (2 chicken breasts)
-1 tbsp olive oil
-1/4 tsp salt
-1/8 tsp black Pepper
-1/8 tsp oregano
-1/8 tsp cumin
-1/8 tsp smoked paprika
-1/8 tsp chilli
-1/8 tsp onion powder
-120ml low sodium chicken stock or water
+* 110g chicken breast (2 chicken breasts)
+* 1 tbsp olive oil
+* 1/4 tsp salt
+* 1/8 tsp black Pepper
+* 1/8 tsp oregano
+* 1/8 tsp cumin
+* 1/8 tsp smoked paprika
+* 1/8 tsp chilli
+* 1/8 tsp onion powder
+* 120ml low sodium chicken stock or water
 
 ## Other Ingredients
 100g black beans
