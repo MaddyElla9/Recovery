@@ -8,16 +8,16 @@ image:
 
 
 ## Ingrdients
-1/2 cup peanut butter or nut butter of choice
-1/4 cup coconut sugar or light brown sugar
-1/4 teaspoon kosher salt
-1 large egg
-1 large egg white
-1/2 teaspoon pure vanilla extract
-1/4 teaspoon baking soda
-1/2 cup vanilla whey protein powder
-2 tablespoons coconut flour
-3 tablespoons mini chocolate chips
+* 1/2 cup peanut butter or nut butter of choice
+* 1/4 cup coconut sugar or light brown sugar
+* 1/4 teaspoon kosher salt
+* 1 large egg
+* 1 large egg white
+* 1/2 teaspoon pure vanilla extract
+* 1/4 teaspoon baking soda
+* 1/2 cup vanilla whey protein powder
+* 2 tablespoons coconut flour
+* 3 tablespoons mini chocolate chips
 
 # Directions 
 ## Step 1: 
