@@ -6,7 +6,7 @@ title: "Recovery"
 description: "Be kind to your body, you only have one"
 # baseurl: "/" # the subpath of your site, e.g. "/blog"
 # url: 
-logo: "/images/logo-two.jpg" # path of site logo, e.g. "/images/logo.png"
+logo: "/images/logo-three.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 google_fonts:
   - name: "Source Sans Pro"
