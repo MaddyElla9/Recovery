@@ -7,16 +7,16 @@ image:
 ---
 
 # Ingredients
-400g shredded seitan
-1 broccoli
-1 tbsp olive oil
-1 tbsp sesame oil
-1 tbsp sweet soy sauce
-2 tbsp light soy sauce
-1 tbsp Shaoxing wine
-1/4 tsp white pepper
-1 tsp corn starch
-2 tbsp water
+* 400g shredded seitan
+* 1 broccoli
+* 1 tbsp olive oil
+* 1 tbsp sesame oil
+* 1 tbsp sweet soy sauce
+* 2 tbsp light soy sauce
+* 1 tbsp Shaoxing wine
+* 1/4 tsp white pepper
+* 1 tsp corn starch
+* 2 tbsp water
 
 # Directions
 ## Step 1:
