@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ''
+permalink: /sources/
 ---
 
 ### Sources Referenced:
