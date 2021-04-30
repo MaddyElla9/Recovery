@@ -7,15 +7,15 @@ image:
 ---
 
 # Ingredients
-1 cup brown rice
-2 ½ cups water
-1 pound salmon fillet 
-¼ cup orange juice
-1 teaspoon dried dill weed
-1 teaspoon dried rosemary
-1 teaspoon dried basil
-1 teaspoon dry mustard
-1 teaspoon lemon pepper
+* 1 cup brown rice
+* 2 ½ cups water
+* 1 pound salmon fillet 
+* ¼ cup orange juice
+* 1 teaspoon dried dill weed
+* 1 teaspoon dried rosemary
+* 1 teaspoon dried basil
+* 1 teaspoon dry mustard
+* 1 teaspoon lemon pepper
 
 # Directions
 ## Step 1:
