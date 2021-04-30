@@ -6,14 +6,14 @@ image:
   caption: 
 ---
 # Ingredients
-1 cauliflower pizza base (store-bought)
-Mozzarella
-Buffalo mozzarella
-Pizza tomato sauce
-Roasted pumpkin, diced
-Red bell pepper, sliced
-Arugula
-Basil
+* 1 cauliflower pizza base (store-bought)
+* Mozzarella
+* Buffalo mozzarella
+* Pizza tomato sauce
+* Roasted pumpkin, diced
+* Red bell pepper, sliced
+* Arugula
+* Basil
 
 # Directions
 ## Step 1:
